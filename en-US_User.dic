@@ -2,6 +2,7 @@ app
 Atata
 autocomplete
 CDP
+checkboxes
 clearable
 CLI
 clickable
@@ -19,6 +20,7 @@ formattable
 href
 initializable
 JSON
+Kendo
 labelled
 localhost
 locator
@@ -28,6 +30,8 @@ Mui
 multicast
 multiline
 mutex
+MVC
+NG
 nullable
 polyline
 popup
@@ -50,3 +54,4 @@ username
 UTC
 utils
 viewport
+Vue
