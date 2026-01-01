@@ -7,7 +7,7 @@
     <Authors>Yevgeniy Shunevych</Authors>
     <Company>Yevgeniy Shunevych</Company>
     <Product>Atata Framework</Product>
-    <Copyright>© 2016-2025 Yevgeniy Shunevych</Copyright>
+    <Copyright>© 2016-2026 Yevgeniy Shunevych</Copyright>
     <EnableNETAnalyzers>true</EnableNETAnalyzers>
     <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
     <AnalysisLevel>10.0-Recommended</AnalysisLevel>
